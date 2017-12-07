@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="49.333866mm"
+   height="28.952354mm"
+   viewBox="0 0 174.80504 102.58708"
+   id="svg7237"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="figure2.svg">
+  <defs
+     id="defs7239">
+    <clipPath
+       id="clipPath4310"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4312"
+         d="m 141.51,504.51 165.45,0 0,107.22 -165.45,0 0,-107.22 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4318"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4320"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4330"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4332"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4342"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4344"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4350"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4352"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4362"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4364"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4374"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4376"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4396"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4398"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4408"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4410"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4416"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4418"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4428"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4430"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4438"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4440"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4450"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4452"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4458"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4460"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4470"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4472"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4480"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4482"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4492"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4494"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4504"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4506"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4516"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4518"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4524"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4526"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4536"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4538"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4548"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4550"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4560"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4562"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4570"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4572"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4582"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4584"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4594"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4596"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4606"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4608"
+         d="m 141.5,504.5 165.46,0 0,107.23 -165.46,0 0,-107.23 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="113.01856"
+     inkscape:cy="54.095462"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4308"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="821"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7242">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-207.56202,-433.36296)">
+    <g
+       id="g4306"
+       transform="matrix(1.25,0,0,-1.25,25.562451,1177.5367)">
+      <g
+         id="g4308"
+         clip-path="url(#clipPath4310)">
+        <g
+           id="g4314">
+          <g
+             id="g4316"
+             clip-path="url(#clipPath4318)" />
+        </g>
+        <g
+           id="g4322" />
+        <g
+           id="g4326">
+          <g
+             id="g4328"
+             clip-path="url(#clipPath4330)">
+            <text
+               transform="matrix(1,0,0,-1,192.22,588.86)"
+               style="font-variant:normal;font-weight:bold;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4334">
+              <tspan
+                 x="0 4.514256 7.4854078 10.910016 14.605344 17.238096 19.1196 22.544209 24.797953 26.679457 30.029615"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4336">Translation</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4338">
+          <g
+             id="g4340"
+             clip-path="url(#clipPath4342)" />
+        </g>
+        <g
+           id="g4346">
+          <g
+             id="g4348"
+             clip-path="url(#clipPath4350)">
+            <text
+               transform="matrix(1,0,0,-1,227.76,588.86)"
+               style="font-variant:normal;font-weight:bold;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4354">
+              <tspan
+                 x="0"
+                 y="0"
+                 id="tspan4356">/</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4358">
+          <g
+             id="g4360"
+             clip-path="url(#clipPath4362)">
+            <text
+               transform="matrix(1,0,0,-1,229.66,588.86)"
+               style="font-variant:normal;font-weight:bold;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4366">
+              <tspan
+                 x="0"
+                 y="0"
+                 id="tspan4368">I</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4370">
+          <g
+             id="g4372"
+             clip-path="url(#clipPath4374)" />
+        </g>
+        <path
+           d="m 192.47,587.36 -0.1,0.1"
+           style="fill:none;stroke:#2e97d3;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path4378"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 192.28,595.14 0.09,0.1"
+           style="fill:none;stroke:#2e97d3;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path4382"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 232.26,587.36 0.07,0.1"
+           style="fill:none;stroke:#2e97d3;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path4384"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 232.43,595.14 -0.1,0.1"
+           style="fill:none;stroke:#2e97d3;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path4388"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4390" />
+        <g
+           id="g4392">
+          <g
+             id="g4394"
+             clip-path="url(#clipPath4396)">
+            <text
+               transform="matrix(1,0,0,-1,150.91,572.59)"
+               style="font-variant:normal;font-weight:normal;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4400">
+              <tspan
+                 x="0 3.424608 5.224896 7.4786401 9.7323837 12.710304 14.964048 17.941969 21.366575 24.344496"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4402">difference</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4404">
+          <g
+             id="g4406"
+             clip-path="url(#clipPath4408)" />
+        </g>
+        <g
+           id="g4412">
+          <g
+             id="g4414"
+             clip-path="url(#clipPath4416)">
+            <text
+               transform="matrix(1,0,0,-1,241.68,572.59)"
+               style="font-variant:normal;font-weight:normal;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4420">
+              <tspan
+                 x="0 2.9779201 6.3145442 9.739152 11.620656 14.970816 18.03672 19.837008 22.902912 26.239536 29.217457"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4422">equivalence</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4424">
+          <g
+             id="g4426"
+             clip-path="url(#clipPath4428)" />
+        </g>
+        <g
+           id="g4432" />
+        <g
+           id="g4434">
+          <g
+             id="g4436"
+             clip-path="url(#clipPath4438)">
+            <text
+               transform="matrix(1,0,0,-1,145.56,553.15)"
+               style="font-variant:normal;font-weight:bold;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4442">
+              <tspan
+                 x="0 3.424608 5.3061118 7.5598559 10.564848 13.529232 15.410736 17.66448"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4444">alterity</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4446">
+          <g
+             id="g4448"
+             clip-path="url(#clipPath4450)" />
+        </g>
+        <g
+           id="g4454">
+          <g
+             id="g4456"
+             clip-path="url(#clipPath4458)">
+            <text
+               transform="matrix(1,0,0,-1,257.69,553.15)"
+               style="font-variant:normal;font-weight:bold;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4462">
+              <tspan
+                 x="0 2.6327519 4.514256 10.192608 12.074112 13.97592 17.400528 20.378448 22.259953 24.43248"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4464">similarity</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4466">
+          <g
+             id="g4468"
+             clip-path="url(#clipPath4470)" />
+        </g>
+        <g
+           id="g4474" />
+        <g
+           id="g4476">
+          <g
+             id="g4478"
+             clip-path="url(#clipPath4480)">
+            <text
+               transform="matrix(1,0,0,-1,145.56,534.07)"
+               style="font-variant:normal;font-weight:normal;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4484">
+              <tspan
+                 x="0 3.3366239 6.7612319"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4486">non</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4488">
+          <g
+             id="g4490"
+             clip-path="url(#clipPath4492)">
+            <text
+               transform="matrix(1,0,0,-1,155.69,534.07)"
+               style="font-variant:normal;font-weight:normal;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4496">
+              <tspan
+                 x="0"
+                 y="0"
+                 id="tspan4498">-</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4500">
+          <g
+             id="g4502"
+             clip-path="url(#clipPath4504)">
+            <text
+               transform="matrix(1,0,0,-1,157.97,534.07)"
+               style="font-variant:normal;font-weight:normal;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4508">
+              <tspan
+                 x="0 2.9779201 6.4025278 9.827136 11.627424 14.964048 18.029951 19.911455 22.916449 26.239536 29.305441"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4510">equivalence</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4512">
+          <g
+             id="g4514"
+             clip-path="url(#clipPath4516)" />
+        </g>
+        <g
+           id="g4520">
+          <g
+             id="g4522"
+             clip-path="url(#clipPath4524)">
+            <text
+               transform="matrix(1,0,0,-1,241.68,534.07)"
+               style="font-variant:normal;font-weight:normal;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4528">
+              <tspan
+                 x="0 3.3366239 6.7612319"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4530">non</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4532">
+          <g
+             id="g4534"
+             clip-path="url(#clipPath4536)">
+            <text
+               transform="matrix(1,0,0,-1,251.81,534.07)"
+               style="font-variant:normal;font-weight:normal;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4540">
+              <tspan
+                 x="0"
+                 y="0"
+                 id="tspan4542">-</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4544">
+          <g
+             id="g4546"
+             clip-path="url(#clipPath4548)">
+            <text
+               transform="matrix(1,0,0,-1,253.99,534.07)"
+               style="font-variant:normal;font-weight:normal;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4552">
+              <tspan
+                 x="0 3.5193601 5.3196478 7.5733919 9.827136 12.805056 15.0588 18.124704 21.461329 24.439247"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4554">difference</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4556">
+          <g
+             id="g4558"
+             clip-path="url(#clipPath4560)" />
+        </g>
+        <g
+           id="g4564" />
+        <g
+           id="g4566">
+          <g
+             id="g4568"
+             clip-path="url(#clipPath4570)">
+            <text
+               transform="matrix(1,0,0,-1,192.22,514.73)"
+               style="font-variant:normal;font-weight:bold;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4574">
+              <tspan
+                 x="0 5.2655039 7.519248 11.207808 14.273712 17.251633"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4576">Other</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4578">
+          <g
+             id="g4580"
+             clip-path="url(#clipPath4582)">
+            <text
+               transform="matrix(1,0,0,-1,211.22,514.73)"
+               style="font-variant:normal;font-weight:bold;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4586">
+              <tspan
+                 x="0 1.896004"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4588">/</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4590">
+          <g
+             id="g4592"
+             clip-path="url(#clipPath4594)">
+            <text
+               transform="matrix(1,0,0,-1,214.82,514.73)"
+               style="font-variant:normal;font-weight:bold;font-size:6.76800013px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text4598">
+              <tspan
+                 x="0 5.2655039 8.229888 10.111392 13.549536 15.43104 19.139904 22.564512"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan4600">Original</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g4602">
+          <g
+             id="g4604"
+             clip-path="url(#clipPath4606)" />
+        </g>
+        <g
+           id="g4610" />
+      </g>
+    </g>
+    <path
+       d="m 265.39995,463.14918 0.0125,0 c 0.075,0 0.1375,0.075 0.1375,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6125,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l -0.0125,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.1625,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0.0125 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0.0125 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0.0125,0 c 0.075,0 0.15,0.0625 0.1375,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6125,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l -0.0125,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0.0125,-0.0875 0.075,-0.15 0.1625,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0.0125 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0.0125 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,-0.0125 -0.15,-0.075 -0.15,-0.1625 0,-0.075 0.075,-0.15 0.15,-0.1375 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0.0125,0 c 0.075,0 0.1375,0.0625 0.1375,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6125,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l -0.0125,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.1625,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m -48.4625,3.5375 -5.8625,-3.4375 5.8625,-3.4125 c 0.075,-0.0375 0.1625,-0.0125 0.2125,0.05 0.0375,0.075 0.0125,0.1625 -0.0625,0.2125 l -5.6375,3.2875 0,-0.2625 5.6375,3.3 c 0.075,0.0375 0.1,0.1375 0.05,0.2 -0.0375,0.075 -0.125,0.1 -0.2,0.0625 z m 42.9875,-6.8125 5.8625,3.425 -5.875,3.425 c -0.075,0.0375 -0.1625,0.0125 -0.2,-0.0625 -0.05,-0.075 -0.025,-0.1625 0.05,-0.2 l 5.65,-3.2875 0,0.25 -5.65,-3.2875 c -0.0625,-0.05 -0.0875,-0.1375 -0.05,-0.2125 0.05,-0.075 0.1375,-0.0875 0.2125,-0.05 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path5216"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 266.86245,500.43668 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0.0125,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.1625,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6125,0.0125 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l -0.0125,0 c -0.075,-0.0125 -0.1375,-0.075 -0.1375,-0.1625 0,-0.075 0.0625,-0.15 0.15,-0.1375 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.1625 0,0.075 -0.0625,0.15 -0.15,0.1375 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0.0125 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0.0125,0 c 0.075,0 0.1375,0.075 0.1375,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6125,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l -0.0125,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.1625,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.075 0.15,0.15 0,0.0875 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0.0125 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.075,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.075,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.0875 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.0625,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.0875,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.075 0.15,0.15 0,0.0875 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.0625 -0.15,-0.15 0,-0.075 0.075,-0.15 0.15,-0.15 z m 0.6,0.0125 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m 0.6,0 0,0 c 0.0875,0 0.15,0.0625 0.15,0.15 0,0.075 -0.0625,0.15 -0.15,0.15 l 0,0 c -0.075,0 -0.15,-0.075 -0.15,-0.15 0,-0.0875 0.075,-0.15 0.15,-0.15 z m -48.45,3.525 -5.875,-3.425 5.875,-3.425 c 0.075,-0.0375 0.1625,-0.0125 0.2,0.0625 0.05,0.0625 0.025,0.1625 -0.05,0.2 l -5.65,3.2875 0,-0.2625 5.65,3.3 c 0.0625,0.05 0.0875,0.1375 0.05,0.2125 -0.0375,0.0625 -0.1375,0.0875 -0.2,0.05 z m 42.975,-6.8125 5.8625,3.4375 -5.8625,3.4125 c -0.075,0.0375 -0.1625,0.0125 -0.2125,-0.05 -0.0375,-0.075 -0.0125,-0.1625 0.0625,-0.2125 l 5.65,-3.2875 0,0.2625 -5.65,-3.3 c -0.075,-0.0375 -0.1,-0.1375 -0.05,-0.2 0.0375,-0.075 0.1375,-0.1 0.2,-0.0625 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path5218"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 265.34995,495.52418 0,-29.2875 -0.3,0 0,29.2875 0.3,0 z m 3.275,-23.725 -3.425,-5.8625 -3.425,5.8625 c -0.0375,0.075 -0.0125,0.175 0.0625,0.2125 0.0625,0.0375 0.1625,0.0125 0.2,-0.05 l 3.3,-5.65 -0.2625,0 3.2875,5.65 c 0.05,0.0625 0.1375,0.0875 0.2125,0.05 0.0625,-0.0375 0.0875,-0.1375 0.05,-0.2125 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path5220"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 320.37495,495.86168 -0.5625,-28.1125 0.3,-0.0125 0.5625,28.1125 -0.3,0.0125 z m -3.7125,-22.4875 3.3,-5.9375 3.5375,5.8 c 0.05,0.075 0.025,0.1625 -0.05,0.2125 -0.075,0.0375 -0.1625,0.025 -0.2,-0.05 l -3.4125,-5.575 0.2625,-0.0125 -3.175,5.7125 c -0.05,0.075 -0.1375,0.1 -0.2125,0.0625 -0.075,-0.05 -0.1,-0.1375 -0.05,-0.2125 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path5222"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 274.04995,468.28668 38.9375,26.85 -0.175,0.25 -38.9375,-26.85 0.175,-0.25 z m 2.55,6.1 -2.8875,-6.15 6.775,0.525 c 0.0875,0 0.15,0.075 0.1375,0.15 0,0.0875 -0.075,0.15 -0.1625,0.15 l -6.5125,-0.5 0.15,-0.2125 2.775,5.9125 c 0.0375,0.075 0,0.1625 -0.075,0.2 -0.075,0.0375 -0.1625,0 -0.2,-0.075 z m 33.65,14.9 2.8875,6.15 -6.775,-0.5125 c -0.075,-0.0125 -0.1375,-0.0875 -0.1375,-0.1625 0.0125,-0.0875 0.0875,-0.15 0.1625,-0.1375 l 6.525,0.4875 -0.15,0.2125 -2.775,-5.9125 c -0.0375,-0.075 -0.0125,-0.1625 0.0625,-0.2 0.075,-0.0375 0.175,0 0.2,0.075 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path5224"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 308.62495,468.34918 -35.5625,26.8375 0.1875,0.2375 35.5625,-26.8375 -0.1875,-0.2375 z m -2.2875,6.2125 2.6125,-6.275 -6.7375,0.8 c -0.0875,0.0125 -0.15,0.0875 -0.1375,0.175 0.0125,0.075 0.0875,0.1375 0.175,0.125 l 6.4875,-0.7625 -0.1625,-0.2125 -2.525,6.025 c -0.025,0.075 0.0125,0.1625 0.0875,0.2 0.075,0.0375 0.1625,0 0.2,-0.075 z m -30.8,14.65 -2.625,6.275 6.75,-0.8125 c 0.0875,0 0.1375,-0.075 0.1375,-0.1625 -0.0125,-0.075 -0.0875,-0.1375 -0.175,-0.125 l -6.4875,0.7625 0.1625,0.2125 2.5125,-6.025 c 0.0375,-0.0875 0,-0.175 -0.075,-0.2 -0.075,-0.0375 -0.1625,0 -0.2,0.075 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path5226"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 265.81245,453.51168 c 0,-0.9125 2.0375,-1.6625 4.5625,-1.6625 l 16.3,0 c 2.525,0 4.5625,-0.75 4.5625,-1.675 0,0.925 2.0375,1.675 4.5625,1.675 l 20.1625,0 c 2.525,0 4.5625,0.75 4.5625,1.6625"
+       style="fill:none;stroke:#000000;stroke-width:0.70566249;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path5228"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 268.39995,511.07418 c 0,0.925 1.9375,1.675 4.325,1.675 l 16.7875,0 c 2.3875,0 4.325,0.75 4.325,1.6625 0,-0.9125 1.9375,-1.6625 4.325,-1.6625 l 17.8,0 c 2.3875,0 4.325,-0.75 4.325,-1.675"
+       style="fill:none;stroke:#000000;stroke-width:0.70564997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path5230"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 328.47495,460.24918 c 0.925,0 1.675,1.525 1.675,3.4125 l 0,12.2125 c 0,1.875 0.75,3.4125 1.6625,3.4125 -0.9125,0 -1.6625,1.525 -1.6625,3.4125 l 0,15.1125 c 0,1.875 -0.75,3.4125 -1.675,3.4125"
+       style="fill:none;stroke:#000000;stroke-width:0.70564997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path5232"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 256.31245,498.34918 c -0.9375,0 -1.7,-1.55 -1.7,-3.4625 l 0,-15.9125 c 0,-1.9125 -0.75,-3.4625 -1.6875,-3.4625 0.9375,0 1.6875,-1.55 1.6875,-3.4625 l 0,-11.2125 c 0,-1.9125 0.7625,-3.4625 1.7,-3.4625"
+       style="fill:none;stroke:#000000;stroke-width:0.70566249;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path5234"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

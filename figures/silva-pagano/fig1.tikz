@@ -1,0 +1,29 @@
+\usetikzlibrary{shapes,arrows,positioning}
+\begin{tikzpicture}[transform shape]
+	
+	\tikzstyle{content} = [ 
+		fill=white,
+		minimum height = 1em,
+		text width = 16em
+	]
+	\tikzstyle{label} = [ 
+		fill=white, 
+   		minimum height = 1em,
+	]
+	\tikzstyle{line} = [
+		draw, 
+		-latex, 
+		line width=0.05em
+	]
+	
+	\node[content] (text1) {The researchers crumpled a sheet of thin aluminized Mylar and placed it inside a cylinder.};
+	\node[content, below of = text1] (text2) {After the crumpling of a sheet of thin aluminized Mylar, the researchers placed it inside a cylinder.};
+	\node[content, below of = text2] (text3) {A sheet of thin aluminized Mylar was crumpled and placed inside a cylinder.};
+	\node[content, below of = text3] (text4) {A crumpled sheet of aluminized Mylar was placed inside a cylinder.};
+	
+	\node[label, above = 1em of text1.east] (congruent) {\textsc{congruent}};
+	\node[label, below = 1em of text4.east] (metaphorical) {\textsc{metaphorical}};
+	
+	\draw[line, <->] (congruent) -- (metaphorical);
+
+\end{tikzpicture}

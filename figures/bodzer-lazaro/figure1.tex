@@ -1,0 +1,30 @@
+\documentclass[tikz]{standalone}
+\usetikzlibrary{shapes,arrows,positioning}
+
+\begin{document}
+% Define Styles
+\tikzstyle{block} = [rectangle, draw, fill=white, text centered, minimum height=3em, minimum width = 9em, line width = 0.1em]
+\tikzstyle{heading} = [fill=white, text centered, minimum height=3em, minimum width = 9em]
+\tikzstyle{line} = [draw, line width=0.1em]
+
+\begin{tikzpicture}
+    % left column
+    \node [block] (descriptive) {\sffamily{descriptive}};
+    \node [block, below = 1em of descriptive] (quantitative) {\sffamily{quantitative}};	
+    \node [block, below = 1em of quantitative] (conceptual) {\sffamily{conceptual}};
+    \node [block, below = 1em of conceptual] (experimental) {\sffamily{experimental}};
+    
+    % right column
+    \node [block, left = 4em  of descriptive] (applied) {\sffamily{applied}};
+    \node [block, below = 1em of applied] (qualitative) {\sffamily{qualitative}};
+    \node [block, below = 1em of qualitative] (empirical) {\sffamily{empirical}};
+    \node [block, below = 1em of empirical] (non-experimental) {\sffamily{non-experimental}};
+    
+    % Draw edges
+    \path [line] (descriptive) -- (applied);
+    \path [line] (quantitative) -- (qualitative);
+    \path [line] (experimental) -- (non-experimental);
+    \path [line] (conceptual) -- (empirical);
+
+\end{tikzpicture}
+\end{document}

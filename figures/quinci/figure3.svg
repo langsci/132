@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54.54517mm"
+   height="42.829884mm"
+   viewBox="0 0 193.27029 151.75943"
+   id="svg9444"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="figure3.svg">
+  <defs
+     id="defs9446">
+    <clipPath
+       id="clipPath6431"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6433"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6417"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6419"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6403"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6405"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6389"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6391"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6375"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6377"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6363"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6365"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6351"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6353"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6339"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6341"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6327"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6329"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6315"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6317"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6303"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6305"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6291"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6293"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6279"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6281"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6267"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6269"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6255"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6257"
+         d="m 230.52,278.88 167.64,0 0,136.2 -167.64,0 0,-136.2 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="135.92086"
+     inkscape:cy="42.203152"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="821"
+     inkscape:window-x="1280"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9449">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-189.07914,-362.19678)">
+    <path
+       d="m 237.69413,362.19678 0,122.0375 m 34.05,-122.0375 0,122.0375 m 33.9,-122.0375 0,122.0375 m 34.0625,-122.0375 0,122.0375 m 33.9375,-122.0375 0,122.0375"
+       style="fill:none;stroke:#f2f2f2;stroke-width:0.69328749;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path6239"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 347.50663,482.14678 -143.7875,0 0,-5.1 143.7875,0 0,5.1 z m 13.05,-24.3 -156.8375,0 0,-5.1 156.8375,0 0,5.1 z m 13.05,-24.45 -169.8875,0 0,-5.1 169.8875,0 0,5.1 z m 0,-24.45 -169.8875,0 0,-5.1 169.8875,0 0,5.1 z m 0,-24.3125 -169.8875,0 0,-5.1 169.8875,0 0,5.1 z"
+       style="fill:#4f81bd;fill-opacity:0.70196001;fill-rule:nonzero;stroke:none"
+       id="path6241"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 349.30663,477.04678 -145.5875,0 0,-4.95 145.5875,0 0,4.95 z m 0,-24.3 -145.5875,0 0,-5.1 145.5875,0 0,5.1 z m 7.35,-24.45 -152.9375,0 0,-5.1 152.9375,0 0,5.1 z m -16.95,-24.45 -135.9875,0 0,-5.1 135.9875,0 0,5.1 z m 19.8,-24.3125 -155.7875,0 0,-5.1 155.7875,0 0,5.1 z"
+       style="fill:#c0504d;fill-opacity:0.70196001;fill-rule:nonzero;stroke:none"
+       id="path6243"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 356.65663,472.09678 -152.9375,0 0,-5.1 152.9375,0 0,5.1 z m 16.95,-24.45 -169.8875,0 0,-5.1 169.8875,0 0,5.1 z m 0,-24.45 -169.8875,0 0,-5.1 169.8875,0 0,5.1 z m 0,-24.45 -169.8875,0 0,-4.95 169.8875,0 0,4.95 z m 0,-24.3125 -169.8875,0 0,-5.1 169.8875,0 0,5.1 z"
+       style="fill:#9bbb59;fill-opacity:0.70196001;fill-rule:nonzero;stroke:none"
+       id="path6245"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 354.70663,466.99678 -150.9875,0 0,-5.1 150.9875,0 0,5.1 z m 0,-24.45 -150.9875,0 0,-5.1 150.9875,0 0,5.1 z m -18.9,-24.45 -132.0875,0 0,-5.1 132.0875,0 0,5.1 z m -4.65,-24.3 -127.4375,0 0,-5.1125 127.4375,0 0,5.1125 z m 42.45,-24.4625 -169.8875,0 0,-5.1 169.8875,0 0,5.1 z"
+       style="fill:#8064a2;fill-opacity:0.70196001;fill-rule:nonzero;stroke:none"
+       id="path6247"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 203.71913,484.23428 0,-122.0375"
+       style="fill:none;stroke:#bfbfbf;stroke-width:1.15547502;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path6249"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g6251"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6253"
+         clip-path="url(#clipPath6255)">
+        <text
+           transform="matrix(1,0,0,-1,243.29,300.22)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6259">
+          <tspan
+             x="0 3.1199999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6261">0%</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g6263"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6265"
+         clip-path="url(#clipPath6267)">
+        <text
+           transform="matrix(1,0,0,-1,268.92,300.22)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6271">
+          <tspan
+             x="0 3.1199999 6.2399998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6273">20%</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g6275"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6277"
+         clip-path="url(#clipPath6279)">
+        <text
+           transform="matrix(1,0,0,-1,296.11,300.22)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6283">
+          <tspan
+             x="0 3.1199999 6.2399998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6285">40%</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g6287"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6289"
+         clip-path="url(#clipPath6291)">
+        <text
+           transform="matrix(1,0,0,-1,323.3,300.22)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6295">
+          <tspan
+             x="0 3.1199999 6.2399998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6297">60%</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g6299"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6301"
+         clip-path="url(#clipPath6303)">
+        <text
+           transform="matrix(1,0,0,-1,350.5,300.22)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6307">
+          <tspan
+             x="0 3.1199999 6.2399998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6309">80%</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g6311"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6313"
+         clip-path="url(#clipPath6315)">
+        <text
+           transform="matrix(1,0,0,-1,376.13,300.22)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6319">
+          <tspan
+             x="0 3.1199999 6.2399998 9.3599997"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6321">100%</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g6323"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6325"
+         clip-path="url(#clipPath6327)">
+        <text
+           transform="matrix(1,0,0,-1,235.39,317.06)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6331">
+          <tspan
+             x="0 3.83968"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6333">T1</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g6335"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6337"
+         clip-path="url(#clipPath6339)">
+        <text
+           transform="matrix(1,0,0,-1,235.39,336.6)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6343">
+          <tspan
+             x="0 3.83968"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6345">T2</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g6347"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6349"
+         clip-path="url(#clipPath6351)">
+        <text
+           transform="matrix(1,0,0,-1,235.39,356.14)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6355">
+          <tspan
+             x="0 3.83968"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6357">T3</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g6359"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6361"
+         clip-path="url(#clipPath6363)">
+        <text
+           transform="matrix(1,0,0,-1,235.39,375.65)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6367">
+          <tspan
+             x="0 3.83968"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6369">T4</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g6371"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6373"
+         clip-path="url(#clipPath6375)">
+        <text
+           transform="matrix(1,0,0,-1,235.39,395.18)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6379">
+          <tspan
+             x="0 3.83968"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6381">T5</tspan>
+        </text>
+      </g>
+    </g>
+    <path
+       d="m 215.00663,511.80928 3.68537,0 0,-3.6855 -3.68537,0 0,3.6855 z"
+       style="fill:#8064a2;fill-opacity:0.70196001;fill-rule:evenodd;stroke:none"
+       id="path6383"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g6385"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6387"
+         clip-path="url(#clipPath6389)">
+        <text
+           transform="matrix(1,0,0,-1,260.5,286.82)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6393">
+          <tspan
+             x="0 4.3159199 6.2386799 9.2315998 12.1128 15.10572 16.54632"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6395">Group P</tspan>
+        </text>
+      </g>
+    </g>
+    <path
+       d="m 252.60663,511.80928 3.68537,0 0,-3.6855 -3.68537,0 0,3.6855 z"
+       style="fill:#9bbb59;fill-opacity:0.70196001;fill-rule:evenodd;stroke:none"
+       id="path6397"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g6399"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6401"
+         clip-path="url(#clipPath6403)">
+        <text
+           transform="matrix(1,0,0,-1,290.59,286.82)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6407">
+          <tspan
+             x="0 4.3159199 6.2386799 9.2315998 12.1128 15.10572 16.54632 18.580799"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6409">Group I2</tspan>
+        </text>
+      </g>
+    </g>
+    <path
+       d="m 292.24413,511.80928 3.68538,0 0,-3.6855 -3.68538,0 0,3.6855 z"
+       style="fill:#c0504d;fill-opacity:0.70196001;fill-rule:evenodd;stroke:none"
+       id="path6411"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g6413"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6415"
+         clip-path="url(#clipPath6417)">
+        <text
+           transform="matrix(1,0,0,-1,322.32,286.82)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6421">
+          <tspan
+             x="0 4.3159199 6.2386799 9.2315998 12.1128 15.10572 16.54632 18.580799"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6423">Group I1</tspan>
+        </text>
+      </g>
+    </g>
+    <path
+       d="m 331.89413,511.80928 3.68538,0 0,-3.6855 -3.68538,0 0,3.6855 z"
+       style="fill:#4f81bd;fill-opacity:0.70196001;fill-rule:evenodd;stroke:none"
+       id="path6425"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g6427"
+       transform="matrix(1.25,0,0,-1.25,-105.38087,870.90928)">
+      <g
+         id="g6429"
+         clip-path="url(#clipPath6431)">
+        <text
+           transform="matrix(1,0,0,-1,354.02,286.82)"
+           style="font-variant:normal;font-weight:normal;font-size:5.88000011px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6435">
+          <tspan
+             x="0 4.3159199 6.2386799 9.2315998 12.1128 15.10572 16.54632"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6437">Group N</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

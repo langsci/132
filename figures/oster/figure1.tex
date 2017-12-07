@@ -1,0 +1,22 @@
+\documentclass[tikz]{standalone}
+\usetikzlibrary{shapes,arrows,positioning}
+
+\begin{document}
+% Define Styles
+\tikzstyle{block} = [rectangle, draw, fill=white, text centered, minimum height=3em, minimum width = 9em, line width = 0.1em]
+\tikzstyle{line} = [draw, -latex', line width=0.1em]
+
+\begin{tikzpicture}
+    % Place nodes
+    \node [block] (conceptualization) {\sffamily{Conceptualization}};
+    \node [block, below left = 3em and -2em  of conceptualization] (comprehension) {\sffamily{Comprehension}};
+    \node [block, below right = 3em and -2em of conceptualization] (formulation) {\sffamily{Formulation}};
+    \node [block, below = 3em of formulation] (articulation) {\sffamily{Articulation/writing}};
+    \node [block, below = 3em of comprehension] (reading) {\sffamily{Reading}};
+    % Draw edges
+    \path [line] (reading) -- (comprehension);
+    \path [line] (comprehension.north) -- (conceptualization);
+    \path [line] (conceptualization) -- (formulation.north);
+    \path [line] (formulation) -- (articulation);
+\end{tikzpicture}
+\end{document}
